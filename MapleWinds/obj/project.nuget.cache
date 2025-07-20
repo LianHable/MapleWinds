@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dhe9v6+RgHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lianh\\Development\\MapleWinds\\MapleWinds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lianh\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
